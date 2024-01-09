@@ -1,16 +1,32 @@
-### Hi there 👋
+### Hello there 👋,
 
-<!--
-**NazarIlkiv/NazarIlkiv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Junior Frontend Developer
 
-Here are some ideas to get you started:
+😎 I like to write code
+🏕 I love camping
+🧑‍💻 I am constantly learning new technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+**Languages and Tools:**
+- HTML5
+- CSS3
+- Less
+- SCSS
+- JavaScript
+- TypeScript
+- VSCode
+- React
+- Redux
+- Laravel
+- Webpack
+- NodeJS
+- ESLint
+- MaterialUI
+- PHP
+- Bootstrap
+- Symfony
+- Docker
+- Git
+
+**Connect with me:**
+[LinkedIn](https://www.linkedin.com/in/nazar-ilkiv05/)
