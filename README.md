@@ -1,6 +1,6 @@
 ### Hello there 👋,
 
-I'm a Junior Frontend/Mobile Developer
+I'm a Junior Mobile Developer
 
 😎 I like to write code
 
