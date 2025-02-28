@@ -1,6 +1,6 @@
 ### Hello there 👋,
 
-I'm a Strong Junior Mobile(Flutter) Developer
+I'm a Middle Flutter Developer
 
 😎 I like to write code
 
